@@ -1,5 +1,5 @@
 # osmextract
-Repository con gli estratti di osm
+Repository con gli estratti di osm della regione Lazio
 
 Questo repository nasce per colmare una mia esigenza personale: quella di avere un server nominatim senza dover caricare troppi dati.
 
